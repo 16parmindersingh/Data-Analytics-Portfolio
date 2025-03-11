@@ -1,42 +1,46 @@
-# 📊 HR Analytics Dashboard - Power BI  
-**Author:** Parminder Singh  
-**GitHub Profile:** [16parmindersingh](https://github.com/16parmindersingh)  
+# HR Analytics Dashboard
 
-![HR Analytics Dashboard](HR_Analytics.JPG)  
+## 📊 Project Overview
+This project analyzes HR data to identify key attrition trends and employee behavior using **Power BI**. The dashboard provides insights into:  
+- **Overall Employees & Attrition Rate**  
+- **Attrition by Age, Education, and Salary Slab**  
+- **Attrition by Job Role & Years at Company**  
 
-## 📌 Project Overview  
-This **HR Analytics Dashboard** is built using **Power BI** to analyze employee attrition and workforce trends.  
-It provides key insights to HR teams, helping them understand workforce dynamics and make data-driven decisions.
+![HR Analytics Dashboard](HR_Analytics.JPG)
 
-## 🛠 Tools Used  
-- **Power BI** (Data Cleaning, Data Visualization, DAX, KPI Metrics)  
-- **Microsoft Excel** (Data Preprocessing)  
+---
 
-## 📊 Key Insights  
-- **Overall Employees:** **1,416**  
-- **Attrition Rate:** **16.2%**  
-- **Average Salary:** **$6.5K**  
-- **Average Years at Company:** **7 Years**  
+## 📂 Files in this Repository
+- `HR_Analytics.csv` → The dataset used for analysis  
+- `HR Analytics.pbix` → Power BI file with all visuals & transformations  
+- `HR_Analytics.JPG` → Final dashboard image  
 
-### 📈 Key Visualizations  
-1. **Attrition by Age, Education, Salary Slab, and Job Role**  
-2. **Attrition Trend Over Years at Company**  
-3. **Job Role-wise Attrition Analysis**  
-4. **Employee Distribution and Retention KPIs**  
+---
 
-## 📂 Files in Repository  
-| File Name              | Description                                      |
-|------------------------|--------------------------------------------------|
-| `HR_Analytics.pbix`   | Power BI file for the dashboard                  |
-| `HR_Analytics.csv`    | Dataset used for analysis                        |
-| `HR_Analytics.JPG`    | Screenshot of the final Power BI dashboard       |
+## 📌 Key Insights
+1. **Attrition Rate**: **16.2%** of employees left the company.  
+2. **Highest Attrition by Age Group**: Employees aged **26-35** had the highest attrition.  
+3. **Salary Factor**: Majority of attrition occurred in the **≤5K salary slab**.  
+4. **Job Roles Affected**: **Laboratory Technicians** and **Sales Executives** had the highest attrition.  
 
-## 🔍 Insights & Business Impact  
-- Identified high-risk attrition groups, leading to **targeted retention strategies**.  
-- Helped HR teams **reduce employee turnover by 10%** by addressing key factors.  
-- Provided **data-driven salary and tenure recommendations** to improve workforce stability.  
+---
 
-## 🚀 How to Use  
-1. Download the **HR_Analytics.pbix** file.  
-2. Open it in **Power BI Desktop**.  
-3. Explore the interactive dashboard and analyze key insights.
+## 🛠 Tools Used
+- **Power BI** (Data Visualization)  
+- **SQL** (Data Cleaning & Queries)  
+- **Excel** (Data Preprocessing)  
+
+---
+
+## 📥 How to Use
+1. Download the **HR Analytics.pbix** file.  
+2. Open it in **Power BI** to explore the dashboard.  
+3. Modify and customize visuals as per your needs.  
+
+---
+
+## 🔗 Connect with Me
+- **GitHub**: [github.com/16parmindersingh](https://github.com/16parmindersingh)  
+- **LinkedIn**: [linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/YOUR_USERNAME)  
+
+Feel free to explore and provide feedback! 🚀
