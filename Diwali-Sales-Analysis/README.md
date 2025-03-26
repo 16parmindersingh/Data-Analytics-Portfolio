@@ -94,8 +94,8 @@ For recruiters, this project demonstrates my foundational skills in data analysi
 ---
 
 ## Contact Me
-- **LinkedIn:** [16parmindersingh](www.linkedin/in/16parmindersingh)
 - **GitHub**: [16parmindersingh](https://github.com/16parmindersingh)
+- **LinkedIn:** [16parmindersingh](www.linkedin/in/16parmindersingh) 
 - **Email**: sparminder1608@gmail.com
 ## Feel free to reach out for collaboration or questions!
 
