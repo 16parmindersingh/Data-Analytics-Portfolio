@@ -1,9 +1,9 @@
 # Pizza Sales Analysis (SQL) 🍕📊
 
 ## Project Overview
-This project analyzes 12 months of pizza sales data using **MySQL** to provide actionable insights for optimizing menu offerings, pricing strategies, and inventory management. By integrating data from multiple tables, I developed a series of SQL queries to answer business questions ranging from basic to advanced, covering total orders, revenue, customer preferences, and temporal trends.
+This project analyzes 12 months of pizza sales data using **MySQL** to generate MIS reports and provide actionable insights for optimizing menu offerings, pricing strategies, and inventory management. By integrating data from multiple tables, I developed a series of SQL queries to answer business questions ranging from basic to advanced, covering total orders, revenue, customer preferences, and temporal trends.
 
-This project showcases my skills in **SQL query writing**, **data analysis**, and **database management**, making it a valuable addition to my portfolio for roles in data analytics, business intelligence, or database administration.
+This project showcases my skills in **SQL query writing**, **management reporting**, and **database management**, making it a valuable addition to my portfolio for roles in MIS, business intelligence, or database administration.
 
 ---
 
@@ -40,7 +40,7 @@ The dataset consists of four CSV files, representing pizza sales data over 12 mo
 ---
 
 ## What I Did in This Project
-This project follows a structured approach to analyzing pizza sales data using SQL. Here’s a detailed breakdown of the steps:
+This project follows a structured approach to analyzing pizza sales data using SQL for MIS reporting. Here’s a detailed breakdown of the steps:
 
 ### 1. Database Setup
 - Created a MySQL database named `pizza_sales`.
@@ -75,7 +75,7 @@ This project follows a structured approach to analyzing pizza sales data using S
 - Used SQL features like `JOIN`, `GROUP BY`, `ORDER BY`, `SUM`, `COUNT`, `ROUND`, subqueries, window functions (`RANK`, `OVER`), and more.
 
 ### 4. Insights Generation
-- Analyzed the query results to identify trends and patterns in pizza sales.
+- Analyzed the query results to identify trends and patterns in pizza sales for management decision-making.
 - Documented the findings in a presentation (`Pizza Sales SQL Project.pdf`) for easy reference.
 
 ### Key Output
@@ -125,6 +125,7 @@ The project provides a comprehensive analysis of pizza sales through SQL queries
 - **Menu Optimization**: Focus on popular pizzas like The Classic Deluxe and The Thai Chicken Pizza for promotions.
 - **Pricing Strategy**: The Greek Pizza, while the highest-priced, may need marketing to boost sales.
 - **Inventory Management**: Stock more Large-sized pizzas, as they are the most ordered.
+- **Management Recommendations**: Use these insights to integrate into MIS systems for real-time sales tracking and forecasting.
 
 ---
 
@@ -145,15 +146,15 @@ The project provides a comprehensive analysis of pizza sales through SQL queries
 
 ## Skills Demonstrated
 This project highlights my ability to:
-- Use **MySQL** for database management and query execution.
+- Use **MySQL** for database management and query execution in support of management reporting.
 - Write complex SQL queries using `JOIN`, `GROUP BY`, `ORDER BY`, aggregations (`SUM`, `COUNT`), subqueries, and window functions (`RANK`, `OVER`).
-- Analyze sales data to extract actionable business insights.
+- Analyze sales data to extract actionable business insights for decision-support systems.
 - Structure and document a data analysis project for clarity and reproducibility.
 
 ---
 
 ## Why This Project Matters
-For recruiters, this project showcases my skills in **SQL** and **data analysis**, which are essential for roles in data analytics, business intelligence, or database administration. It demonstrates my ability to work with relational databases, write efficient queries, and derive meaningful insights from data.
+For recruiters, this project showcases my skills in **SQL** and **management reporting**, which are essential for roles in MIS, business intelligence, or database administration. It demonstrates my ability to work with relational databases, write efficient queries, and derive meaningful insights from data to support strategic business decisions.
 
 For others, this project provides a practical example of how SQL can be used to analyze sales data, with applications in menu optimization, pricing strategies, and inventory management for a pizza business.
 
@@ -178,4 +179,4 @@ For any questions or collaboration opportunities, please reach out to:
 
 ---
 
-Thank you for checking out my project! I’m excited to continue growing my SQL and data analytics skills and applying them to real-world challenges. 🚀
+Thank you for checking out my project! I’m excited to continue growing my MIS skills and applying them to real-world challenges. 🚀
