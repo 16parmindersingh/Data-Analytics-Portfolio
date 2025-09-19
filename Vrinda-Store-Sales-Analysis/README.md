@@ -1,4 +1,4 @@
-# Vrinda Store 2022 Sales Analysis 📊📈
+# Vrinda Store Sales Analysis 📊📈
 
 ## Project Overview
 This project analyzes the annual sales data for Vrinda Store in 2022, focusing on key metrics such as sales by month, gender, age group, state, and sales channels. Using **Microsoft Excel**, I performed data cleaning, created visualizations (e.g., charts and pie charts), and compiled MIS reports to provide actionable insights. The goal was to support strategic business decisions by identifying trends and delivering recommendations to enhance sales performance through management reporting systems.
